@@ -1,0 +1,3 @@
+﻿m,Member
+a,Adviser
+g,Guest
